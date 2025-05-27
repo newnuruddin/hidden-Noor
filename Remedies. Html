@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>প্রাকৃতিক ও নববী চিকিৎসা | Hidden Noor</title>
+  <style>
+    body { font-family: 'Arial', sans-serif; margin: 20px; background: #f5f8ff; color: #111; }
+    h1, h2 { text-align: center; }
+    .remedy { background: #fff; padding: 15px; margin: 20px auto; max-width: 700px; box-shadow: 0 0 5px #ccc; border-left: 5px solid #0066cc; }
+    .footer { text-align: center; margin-top: 40px; font-size: 14px; }
+    .nav { text-align: center; margin-top: 30px; }
+    .nav a { margin: 0 10px; text-decoration: none; color: #0066cc; font-weight: bold; }
+  </style>
+</head>
+<body>
+
+  <h1>প্রাকৃতিক ও নববী চিকিৎসা</h1>
+
+  <div class="remedy">
+    <h3>১. কালোজিরা (Black Seed)</h3>
+    <p><strong>হাদীস:</strong> রাসূলুল্লাহ (সা.) বলেছেন, “কালোজিরা মৃত্যু ব্যতীত সব রোগের জন্য নিরাময়।” – মুসলিম</p>
+    <p><strong>উপকারিতা:</strong> ইমিউন সিস্টেম শক্তিশালী করে, অ্যান্টি-অক্সিডেন্ট, শ্বাসকষ্ট ও হজমে সহায়ক।</p>
+  </div>
+
+  <div class="remedy">
+    <h3>২. জমজম পানি (Zamzam Water)</h3>
+    <p><strong>হাদীস:</strong> “জমজমের পানি যে উদ্দেশ্যে পান করা হয়, তার জন্যই তা উপকারী।” – ইবন মাজাহ</p>
+    <p><strong>উপকারিতা:</strong> শারীরিক ও আত্মিক রোগে উপকারী, পবিত্র ও বরকতময়।</p>
+  </div>
+
+  <div class="remedy">
+    <h3>৩. মধু (Honey)</h3>
+    <p><strong>কুরআন:</strong> “তাদের পেট থেকে বের হয় পানীয়, যাতে মানুষের জন্য আরোগ্য রয়েছে।” – সূরা নাহল: ৬৯</p>
+    <p><strong>উপকারিতা:</strong> সংক্রমণ প্রতিরোধ, হজমে সহায়ক, ত্বক ও ক্ষত নিরাময়ে কার্যকর।</p>
+  </div>
+
+  <div class="remedy">
+    <h3>৪. অলিভ তেল (Olive Oil)</h3>
+    <p><strong>হাদীস:</strong> “তোমরা অলিভ তেল খাও এবং তা শরীরে মাখো, কারণ এটি একটি বরকতময় গাছ থেকে উৎপন্ন।” – তিরমিযী</p>
+    <p><strong>উপকারিতা:</strong> হৃদরোগ প্রতিরোধ, ত্বক ও চুলের যত্নে সহায়ক।</p>
+  </div>
+
+  <div class="remedy">
+    <h3>৫. তালবিনা (Talbina)</h3>
+    <p><strong>হাদীস:</strong> “তালবিনা রোগীর হৃদয়কে প্রশান্তি দেয় এবং দুঃখ ও বিষণ্ণতা দূর করে।” – বুখারী</p>
+    <p><strong>উপকারিতা:</strong> হজমে সহায়ক, মানসিক প্রশান্তি প্রদান করে।</p>
+  </div>
+
+  <div class="remedy">
+    <h3>৬. আজওয়া খেজুর (Ajwa Dates)</h3>
+    <p><strong>হাদীস:</strong> “যে ব্যক্তি সকালে সাতটি আজওয়া খেজুর খায়, সেদিন তাকে বিষ ও যাদু ক্ষতি করতে পারবে না।” – বুখারী</p>
+    <p><strong>উপকারিতা:</strong> শক্তি বৃদ্ধি, বিষক্রিয়া প্রতিরোধে সহায়ক।</p>
+  </div>
+
+  <div class="remedy">
+    <h3>৭. হিজামা (Cupping)</h3>
+    <p><strong>হাদীস:</strong> “তোমরা হিজামা করো, কারণ এতে আরোগ্য রয়েছে।” – বুখারী</p>
+    <p><strong>উপকারিতা:</strong> রক্ত পরিশোধন, ব্যথা ও প্রদাহ কমাতে সহায়ক।</p>
+  </div>
+
+  <div class="remedy">
+    <h3>৮. সিন্না পাতা (Senna Leaves)</h3>
+    <p><strong>হাদীস:</strong> “সিন্না ও সানূত ব্যবহার করো, কারণ এতে মৃত্যু ব্যতীত সব রোগের জন্য নিরাময় রয়েছে।” – ইবন মাজাহ</p>
+    <p><strong>উপকারিতা:</strong> কোষ্ঠকাঠিন্য দূর করে, হজমে সহায়ক।</p>
+  </div>
+
+  <div class="nav">
+    <a href="index.html">হোম</a>
+    <a href="daily.html">দৈনিক অনুপ্রেরণা</a>
+    <a href="ask.html">প্রশ্ন ও উত্তর</a>
+  </div>
+
+  <div class="footer">
+    &copy; 2025 Hidden Noor | নুরুদ্দিন ইউসুফ | Nuruddin Yusuf
+  </div>
+
+</body>
+</html>
