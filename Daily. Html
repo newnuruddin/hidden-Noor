@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily Inspiration | Hidden Noor</title>
+  <style>
+    body { font-family: 'Arial', sans-serif; margin: 20px; background: #f5f8ff; color: #111; }
+    h1, h2 { text-align: center; }
+    .quote { background: #fff; padding: 15px; margin: 20px auto; max-width: 700px; box-shadow: 0 0 5px #ccc; border-left: 5px solid #0066cc; }
+    .footer { text-align: center; margin-top: 40px; font-size: 14px; }
+    .nav { text-align: center; margin-top: 30px; }
+    .nav a { margin: 0 10px; text-decoration: none; color: #0066cc; font-weight: bold; }
+  </style>
+</head>
+<body>
+
+  <h1>Daily Inspiration | দৈনিক অনুপ্রেরণা</h1>
+
+  <div class="quote">
+    <h3>Hadith 1:</h3>
+    <p><strong>English:</strong> "The best among you are those who have the best manners and character." – Prophet Muhammad (SAW)</p>
+    <p><strong>বাংলা:</strong> “তোমাদের মধ্যে উত্তম সেই ব্যক্তি, যার চরিত্র উত্তম।” – হযরত মুহাম্মদ (সা.)</p>
+  </div>
+
+  <div class="quote">
+    <h3>Qur'an Verse 1:</h3>
+    <p><strong>English:</strong> “Indeed, with hardship comes ease.” – Qur'an 94:6</p>
+    <p><strong>বাংলা:</strong> “নিশ্চয়ই কষ্টের সাথে আসে স্বস্তি।” – সূরা ইনশিরাহ: ৬</p>
+  </div>
+
+  <div class="quote">
+    <h3>Hadith 2:</h3>
+    <p><strong>English:</strong> “Whoever believes in Allah and the Last Day, let him speak good or remain silent.” – Bukhari & Muslim</p>
+    <p><strong>বাংলা:</strong> “যে ব্যক্তি আল্লাহ ও আখিরাতে বিশ্বাস রাখে, সে যেন ভালো কথা বলে অথবা চুপ থাকে।” – বুখারি ও মুসলিম</p>
+  </div>
+
+  <div class="nav">
+    <a href="index.html">Home</a>
+    <a href="remedies.html">Natural Remedies</a>
+    <a href="ask.html">Ask & Learn</a>
+  </div>
+
+  <div class="footer">
+    &copy; 2025 Hidden Noor | নুরুদ্দিন ইউসুফ | Nuruddin Yusuf
+  </div>
+
+</body>
+</html>
